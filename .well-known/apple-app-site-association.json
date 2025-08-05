@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.subaru.telematics.mysubaru",
+        "paths": [
+          "/Login*",          
+          "/Dashboard*",
+          "/*"
+        ]
+      }
+    ]
+  }
+}
